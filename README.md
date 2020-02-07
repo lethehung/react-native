@@ -11,6 +11,6 @@ You must have an Android device (physical or virtual). Before, make sure your bl
 
  command setup project:
 
- npm install
+ ***npm install
  
- npx react-native run-android
+ ***npx react-native run-android
